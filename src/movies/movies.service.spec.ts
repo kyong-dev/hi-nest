@@ -16,7 +16,6 @@ describe('MoviesService', () => {
 
   afterAll(() => {
     console.log("clear database.");
-
   });
 
   it('should be defined', () => {
